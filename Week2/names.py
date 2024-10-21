@@ -1,4 +1,4 @@
-# ICC Python Fundamentals 1, Week 2, Exercise 3: zoo_rhyming_couplets.py
+# ICC Python Fundamentals 1, Week 2, Exercise 3: names.py
 # By [your name] on [date]
 #
 # Meet Termie, who is a program that runs on a terminal, and he is always happy
@@ -10,4 +10,3 @@
 #
 # Your program MUST use the f-string method! Failure to do so will result in a
 # 0 for this exercise!
-

@@ -12,3 +12,10 @@
 # Your program MUST NOT use the f-string method! If you do, you will receive
 # a 0 for this exercise!
 
+animal1 = input("Enter the name of the first animal: ")
+animal2 = input("Enter the name of the second animal: ")
+
+print()
+print("Here's a rhyming couplet about the", animal1, "and the", animal2 + ":")
+print("The", animal1, "roars with might and brawn,")
+print("While the", animal2, "glides gracefully at dawn.")
